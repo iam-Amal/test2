@@ -1,0 +1,6 @@
+print("hello world\n hello world")
+print("hi"+"amal")
+print("hello"+" "+"amal")
+print("string concatenation done with '+' sign")
+print('eg:print("hello" + "amal")')
+print(" new lines can be created with a backslash and n")
